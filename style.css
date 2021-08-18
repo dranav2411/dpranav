@@ -80,3 +80,9 @@ p{
 .links:hover{
     background-color: darkslateblue;
 }
+html{
+    scroll-behavior: smooth;
+}
+.article:hover{
+    color: firebrick;
+}
